@@ -5,7 +5,7 @@ the image below is the ciurcut sdetected we have four leds that go off, one gree
 with the three distance markers we also have an lsd display that runs three diffrent messages to tell the user where theay are with respect to where the car is and object behind it.
 we designed a system depending on the distance chematics
 others involved are 
-github/ETran0416, MShoval1, 
+github/ETran0416, MShoval1, edurestjr
 
 ![image](https://github.com/LSAyrton/Arduino/assets/147452096/c93a53a1-1467-44eb-88d6-46e85569c322)
 ![image](https://github.com/LSAyrton/Arduino/assets/147452096/44f049fd-5c73-43f3-8a35-c607c1844d31)
